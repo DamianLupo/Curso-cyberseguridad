@@ -1,0 +1,142 @@
+Virus informatico: codigo malicioso escrito para interferir en las operaciones de la computadora y causar daño a los datos y el software. Se adhiere a programas o a datos y se puede propagar a distintos computadores por red
+Malware: software diseñado para dañar dispositivos o redes. Tipos de Malware:
+- Virus: Código malicioso escrito para interferir en las operaciones de la computadora y causar daños a los datos y al software.
+- Gusanos: Software malicioso que puede duplicarse y propagarse por los sistemas por sí mismo. A diferencia de un virus, un gusano no necesita ser descargado por un usuario. En su lugar, se autorreplica y se propaga desde una computadora ya infectada a otros dispositivos de la misma red.
+- Ransomware: Ataque malicioso en el que los agentes de amenazas encriptan los Datos de una organización y exigen un pago para restablecer la accesibilidad.
+- Software espía: Software malicioso que se utiliza para recopilar y vender Información sin consentimiento. El software espía puede utilizarse para acceder a los dispositivos.
+|
+ -Virus brain: Creado para rastrear copias ilegales de software medico, pero todo se salio de control, el virus infectaba la computadora y cualquier disco que se instale nuevo, lo que genero que el virus se propague sin ser detectado durante meses. Fue un virus que no tenia como plan dañar dispositivos, pero realentizo cada equipo donde se encontro, lo que afecto gravemente la informatica a nivel mundial
+|
+ -Virus Morris: Este virus fue creado para rastrear la densidad de usuarios que poseia la web en su momento para asi contarlos, el problema, es que el mismo no pudo llevar la cuenta de cuantas veces se instalo en un ordenador, por lo que se instalaba y continuaba asi hasta dejar sin espacio la computadora infestada. Se estima que al rededor de 6 mil computadores fueron afectadas, lo que representaba el 10% del Internet de aquel entonces. Esto represento 10 millones de dolares en daños
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+Ataque de LoveLetter: creado para robar credenciales de inicio de sesion de internet. Se propago en base a un correo electrico con el asunto de "Love Letter for You" el mismo traia un archivo adjunto el cual al abrirlo escaneaba la libreta de direcciones del usuario, lo que hacia que se envie a todos los conocidos de la victima del virus e instalaba un programa que recopilaba informacion y contraseñas del usuario. El ataque a LoveLetter representa el primer ejemplo de ingenieria social, la cual es una tecnica de manipulacion que explota el error humano para obtener informacion privada, acceso u objetos de valor. Hoy en dia se nota mucho mas los ejemplos de ingenieria social, ya que la gente hoy en dia prefiere la comodidad antes que la privacidad, lo que vuelve todo mas vulnerable
+-Phishing en redes sociales: Un agente de amenaza recopila información detallada sobre su objetivo en los sitios de redes sociales. A continuación, inician un ataque.
+-Ataque de "agujero de agua": Un agente de amenaza ataca un sitio web visitado con frecuencia por un grupo específico de usuarios
+-USB baiting: Un agente de amenaza deja estratégicamente una memoria USB con software malicioso para que un empleado la encuentre e instale, con el fin de infectar una red sin saberlo.
+-Ingeniería social física: Un agente de amenaza se hace pasar por un empleado, cliente o proveedor para obtener acceso no autorizado a un lugar físico.
+-Pishing Uso de de las comunicaciones digitales para engañar a las personas para que revelen datos sensibles o implementen software malicioso. Tipos de Phishing: 
+|
+ -Compromiso de correo electrónico empresarial (BEC): Un agente de amenaza envía un mensaje de correo electrónico que parece proceder de una fuente conocida para realizar una solicitud de información aparentemente legítima, con el fin de obtener una ventaja financiera.
+|
+ -Spear phishing : Ataque malicioso por correo electrónico dirigido a un usuario o grupo de usuarios específico. El correo electrónico parece proceder de una fuente de confianza.
+|
+ -Whaling: Una forma de phishing dirigido. Agentes de amenaza tienen como objetivo a ejecutivos de la empresa para obtener acceso a datos confidenciales.
+|
+ -Vishing : El exploit de la comunicación electrónica de voz para obtener información sensible o hacerse pasar por una fuente conocida
+|
+ -Smishing : El uso de mensajes de texto para engañar a los usuarios, con el fin de obtener información sensible o hacerse pasar por una fuente conocida.
+La ingenieria social no es eficaz porque si, tiene diferentes razones entre las cuales se incluyen:
+- Autoridad: Agentes de amenaza se hacen pasar por personas con poder. Esto se debe a que la gente, en general, ha sido condicionada a respetar y seguir a las figuras de autoridad.
+- Intimidación: Los Agentes de amenaza utilizan tácticas de intimidación. Esto incluye persuadir e intimidar a las víctimas para que hagan lo que se les dice
+- Consenso/Prueba social: Dado que la gente a veces hace cosas que cree que muchos otros están haciendo, los agentes de amenaza utilizan la confianza de los demás para fingir que son legítimos. Por ejemplo, podrian intentar obtener acceso a datos privados diciendole a un empleado que a él ya antes le dieron acceso
+- Escasez: Táctica utilizada para dar a entender que la oferta de bienes o servicios es limitada.
+- Familiaridad: Agentes de amenaza establecen una falsa conexión emocional con los usuarios que puede ser explotada.
+- Confianza: Los agentes de amenaza establecen una relación emocional con los usuarios que puede ser explotada a lo largo del tiempo. Utilizan esta relación para desarrollar la confianza y obtener información personal.
+- Urgencia: Un agente de amenaza persuade a los demás para que respondan rápidamente y sin hacer preguntas.
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+Filtracion de equifax: en 2017, los atacantes se infiltraron con exito en la agencia de informacion crediticia, Equifax. Esto genero una de las mayores filtraciones de datos conocidas de informacion confidencial, se robaron mas de 143 millones de registros de clientes y la filtracion afectó aproxidamente al 40% de todos los estadounidenses, donde se incluian datos como numeros de tarjeta de credito, direcciones, etc. Los atacantes tomaron mas de una vulnerabilidad para filtrar los datos, lo cual hizo que equifax tuvo que pagar 575 millones de dolares entre multas y resarcimientos economicos, lo cual muestra la perdida que puede generar el no darle importancia a las vulnerabilidades 
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+El CISSP (Certified Information System Security Professional) define 8 dominios en total:
+- Seguridad y gestion de riesgos:Define las metas y objetivos de seguridad, la mitigacion de riesgos, el cumplimiento y la continuidad del negocio y la ley
+- Seguridad de los recursos: Se centra en proteger los activos digitales y fisicos. A su vez se relaciona con el almacenamiento, el mantenimiento, la retencion y la destruccion de los datos
+- Arquitectura e ingenieria de seguridad: Busca optimizar la seguridad de los datos, garantizando la seguridad de las herramientas, sistemas y procesos eficaces, como configurar un firewall
+- Seguridad de la red y comunicacion: Se centra en administrar y proteger las redes fisicas y comunicaciones inalambricas
+- Gestion de identidades y accecos: se centra en mantener los datos seguros, garantizando que los usuarios sigan las politicas establecidas para controlar y administrar los activos fisicos, como los espacios de oficina, y los logicos, como las redes y las apps
+- Evaluacion y pruebas de seguridad: se basa en la realizacion de pruebas de control de seguridad, la recopilacion y el analisis de datos y la realizacion de auditorias de seguridad para supervisar los riesgos y las amenazas y las vulnerabilidaddes, las cuales pueden ser periodicas
+- Operaciones de seguridad: su principal objetivo es realizar investigaciones e implementar medidas preventivas
+- Seguridad del desarrollo de software: busca el uso de practicas de programacion seguras, que son un conjunto de directrices recomendadas que se utilizan para fcrear aplicaciones y servicios seguros
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+Existen distintos tipos de ataque:
+- Ataque de descifrado de contraseña: es un intento de acceder a dispositivos, sistemas, redes o datos protegidos por contraseña. Algunas formas de ataque de contraseña que conocerá más adelante en el programa de certificación son:
+|
+ -Fuerza bruta
+|
+ -Tabla rainbow
+Estos ataques perteneces al dominio de la Comunicacion y la Seguridad de redes
+- Ataque de ingenieria social: mencionado anteriormente. Estos mismos estan relacionados con el dominio de Seguridad y la Gestion de riesgos
+- Ataque físico: un ataque físico es un incidente de Seguridad que afecta no sólo a los entornos digitales, sino también a los físicos donde se implementa. Algunas formas de ataques físicos son:
+|
+ -USB malicioso
+|
+ -Unidad flash maliciosa
+|
+ -Clonacion y robo de tarjetas
+Estos ataques entran dentro del dominio de la Seguridad de los recursos
+-Inteligencia artificial adversaria: es una técnica que manipula la inteligencia artificial y la tecnología de aprendizaje automático para realizar ataques de forma más eficaz. Este tipo de ataque encuadra en 2 ambitos: Seguridad de redes y comunicaciones y en el de la Gestion de identidad y acceso
+-Ataque a la cadena de suministro: Ataque a la cadena de suministro dirigido a sistemas, aplicaciones, hardware y/o software para localizar una vulnerabilidad en la que se pueda implementar software malicioso. Dado que cada artículo vendido se somete a un proceso que implica a terceros, esto significa que la violación de la Seguridad puede producirse en cualquier punto de la cadena de suministro. Estos ataques son costosos porque pueden afectar a múltiples organizaciones y a las personas que trabajan para ellas. Los ataques pueden corresponder a varios dominios, incluidos, entre otros, los de Seguridad y Gestion de riesgos, Arquitectura de seguridad e ingenieria y Operaciones de seguridad
+-Ataque criptografico: afecta a formas seguras de Comunicación entre un remitente y un destinatario. Algunas formas de ataques criptográficos son:
+|
+ -Cumpleaños
+|
+ -Colision
+|
+ -Degradacion
+Estos pertenecen al dominio de la Comunicacion y la Seguridad de redes
+afecta a formas seguras de Comunicación entre un remitente y un destinatario. Algunas formas de ataques criptográficos son:
+|
+ -Cumpleaños
+|
+ -Colision
+|
+ -Degradacion
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+Tipos de agente de amenaza:
+- Amenaza persistente avanzada: tienen una gran experiencia en acceder a la red de una organización sin autorización. Las APT tienden a investigar sus objetivos con antelación y pueden permanecer sin ser detectadas durante un largo periodo de tiempo. Sus intenciones y motivaciones pueden incluir:
+|
+ -Dañar infraestructuras críticas, como la red electrica y los Recursos naturales
+|
+ -Obtener acceso a la propiedad intelectual, como secretos comerciales o patentes
+-Amenazas internas: estas abusan de su acceso autorizado para obtener Datos que pueden perjudicar a una organizacion, sus intenciones y motivaciones pueden incluir
+|
+ -Sabotaje
+|
+ -Corrupcion
+|
+ -Espionaje
+|
+ -Acceso no autorizado o filtracion de Datos
+-Hacktivistas: agentes de amenaza impulsados por una agenda política. Abusan de la tecnología digital para lograr sus objetivos, que pueden incluir:
+|
+ -Manifestaciones
+|
+ -Propaganda
+|
+ -Campañas de cambio social
+|
+ -Fama
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+Un hacker es cualquier persona que utiliza ordenadores para acceder a sistemas informaticos, redes o datos. Existen 3 categorias principales
+-Los hackers autorizados también se denominan hackers éticos. Siguen un Código Ético y se adhieren a la ley para llevar a cabo evaluaciones de riesgos organizativos. Están motivados para salvaguardar a las personas y a las organizaciones de los agentes de amenaza maliciosos.
+-Los hackers semiautorizados se consideran investigadores. Buscan vulnerabilidades pero no se aprovechan de las que encuentran.
+-Los hackers no autorizados también se denominan hackers no éticos. Son Agentes de amenaza maliciosos que no siguen ni respetan la ley. Su objetivo es recopilar y vender Datos confidenciales para obtener beneficios económicos.
+Los Agentes de amenaza nuevos y no cualificados tienen varios objetivos, entre ellos:
+1- Aprender y mejorar sus habilidades de pirateo
+2- Buscar venganza
+3- Explotar las debilidades de Seguridad mediante el uso de software malicioso, secuencias de comandos de programacion y otras tacticas
+Otros tipos de hackers no están motivados por ninguna agenda en particular aparte de completar el trabajo para el que fueron contratados. Estos tipos de hackers pueden considerarse hackers no éticos o éticos. Se sabe que trabajan en tareas tanto ilegales como legales a cambio de una remuneración.
+
+También hay hackers que se consideran vigilantes. Su principal objetivo es proteger al mundo de los hackers poco éticos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
